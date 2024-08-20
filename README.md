@@ -23,13 +23,13 @@ A simple, elegant calculator application built using Flutter. This app demonstra
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/flutter-calculator.git
+   git clone https://github.com/PrakEntech/calculator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd flutter-calculator
+   cd calculator
    ```
 
 3. Fetch the dependencies:
@@ -71,7 +71,3 @@ You can customize the following aspects of the app:
 - **Button Colors**: Modify the button colors by changing the `btncolor` parameter in the `calcbutton` function.
 - **Display Style**: Adjust the text style of the display by modifying the `TextStyle` in the `Text` widget inside the `build` method.
 - **Additional Features**: Extend the app by adding more advanced operations like square roots, exponentiation, or memory functions.
-
-## Screenshots
-
-Include some screenshots of your app here to showcase the interface and functionality.
